@@ -1,0 +1,42 @@
+body {
+  background: #0f172a;
+  color: #f8fafc;
+  font-family: system-ui, sans-serif;
+  padding: 20px;
+}
+
+.app {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background: #22c55e;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #16a34a;
+}
+
+#cryptoContainer {
+  margin-top: 20px;
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 10px;
+}
